@@ -3,6 +3,7 @@ return {
   opts = {
     defaults = {
       ["<leader>t"] = { name = "+terminal" },
+      ["<leader>p"] = { name = "+chatgpt" },
     },
   },
 }
