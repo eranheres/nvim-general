@@ -1,2 +1,2 @@
 -- remap pageup/pagedown
-require("config.general-keymaps")
+require("config.common-keymaps")
